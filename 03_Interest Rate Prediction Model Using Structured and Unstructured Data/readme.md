@@ -1,5 +1,5 @@
 <header id="header">
-      <h2>프로젝트 정보</h2>
+      <h2>Project Info.</h2>
 <br>     
           
 - 제목 : 정형 및 비정형데이터를 활용한 금리예측모델
@@ -16,7 +16,7 @@
 <br>
 <main>
     <section>
-      <h1>Stacks</h1>
+      <h2>Stacks</h2>
 <h3>Language</h3>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
