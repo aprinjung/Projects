@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
 <h3>Database</h3>
 <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,9 +38,9 @@
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-232F3E?style=for-the-badge&logo=seaborn&logoColor=white">
-<img src="https://img.shields.io/badge/matplotlib-232F3E?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/beautifulsoup-232F3E?style=for-the-badge&logo=beautifulsoup&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white">
+<img src="https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white">
 
 <h3>Communication</h3>
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
