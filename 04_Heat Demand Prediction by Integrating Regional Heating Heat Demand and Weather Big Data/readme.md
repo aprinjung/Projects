@@ -44,4 +44,17 @@
 <h3>Communication</h3>
 <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
 <img src="https://img.shields.io/badge/naverwhale-33C5B5?style=for-the-badge&logo=naverwhale&logoColor=white">
-    </section>
+    </section><br><br>
+
+## 예측 모델 최종 결과
+#### 1. 팀 전체
+|| XGBoost | 앙상블 | LSTM |
+|---|---|---|---|
+| RMSE | 17.3 | 20.83 | 32|
+
+#### 2. 개인
+|| XGBoost | SVR | SARIMA |
+|---|---|---|---|
+|RMSE| 19.58 | 30.7 | 학습시간이 너무 길어 실패 |
+
+- 시간을 줄이고자 팀원이 작성한 XGBoost 코드에 기반하여 하이퍼 파라미터 튜닝하였으므로 XGBoost 소스코드는 첨부하지 않음.<br>
